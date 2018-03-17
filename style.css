@@ -19,6 +19,7 @@ header, nav, footer {
     margin-bottom: 10px;
 }
 
+
 .relative {
     position: relative;
     display: flex;
@@ -64,6 +65,7 @@ on the right side of element "article" than it is on the left sid. */
     padding: 15px;
     margin-top: 20px;
     margin-right: 5px;
+    white-space: nowrap;
 }
 
 #divbox2 {
